@@ -46,7 +46,7 @@ function makeSound(key) {
             break;
 
         case "c":
-            var chil = new Audio("sounds/07_cheen.mp3");
+            var chil = new Audio("sounds/07_Cheen.mp3");
             chil.play();
             break;
 

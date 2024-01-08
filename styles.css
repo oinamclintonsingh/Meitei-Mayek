@@ -1,0 +1,178 @@
+body {
+  text-align: center;
+  background-color: #283149;
+}
+
+h1 {
+  font-size: 4rem;
+  color: #DBEDF3;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #DA0463;
+
+}
+h2 {
+  font-size: 1.5rem;
+  color: #DBEDF3;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #750ba7;
+
+}
+
+footer {
+  color: #DBEDF3;
+  font-family: sans-serif;
+}
+
+.k {
+  background-image: url("./images/01_Kok\(KA\)-\(Head\).png");
+}
+
+.s {
+  background-image: url("./images/02_Sam\(Sa\)-\(Hair\).png");
+}
+
+.l {
+  background-size: 150px;
+  background-image: url("./images/03_Lai\(La\)-\(Forehead\).png");
+}
+
+.m {
+  background-image: url("./images/04_Mit\(Ma\)-\(Eye\).png");
+}
+
+.p {
+  background-image: url("./images/05_Pa\(Pa\)-\(Eyelash\).png");
+}
+
+.n {
+  background-image: url("./images/06_Na\(NA\)-\(Ear\).png");
+}
+
+.c {
+  background-image: url("./images/07_Chil\(Cha\)-\(Lips\).png");
+}
+
+.t {
+  background-image: url("./images/08_Til\(Ta\)-\(Saliva\).png");
+}
+
+.kh {
+  background-image: url("./images/09_Khou\(Kha\)-\(Throat\).png");
+}
+
+.ng {
+  background-image: url("./images/10_Ngou\(Nga\)-Pharynx.png");
+}
+
+.th {
+  background-image: url("./images/11_Thou\(Tha\)-\(Chest\).png");
+}
+
+.w {
+  background-image: url("./images/12_Wai\(Wa\)-\(Navel\).png");
+}
+
+.y {
+  background-image: url("./images/13_Yang\(Ya\)-\(Backbone\).png");
+}
+
+.h {
+  background-image: url("./images/14_Huk\(Ha\)-\(Lower-Spine\).png");
+}
+
+.u {
+  background-image: url("./images/15_Un\(U\)-\(Skin\).png");
+}
+
+.e {
+  background-image: url("./images/16_Ee\(Ee\)-\(Blood\).png");
+}
+
+.ph {
+  background-image: url("./images/17_Pham\(Pha\)-Placenta.png");
+}
+
+.A {
+  background-image: url("./images/18_Atiya\(A\)-\(Sky\).png");
+}
+
+.g {
+  background-image: url("./images/19_Gok\(Ga\).png");
+}
+
+.jh {
+  background-image: url("./images/18_Atiya\(A\)-\(Sky\).png");
+}
+
+.r {
+  background-image: url("./images/21_Rai\(Ra\).png");
+}
+
+.b {
+  background-image: url("./images/22Ba\(Ba\).png");
+}
+
+.j {
+  background-image: url("./images/23_Jil\(ja\).png");
+}
+
+.d {
+  background-image: url("./images/24_Dil\(Da\).png");
+}
+
+.gh {
+  background-image: url("./images/25_Ghou\(Gha\).png");
+}
+
+.dh {
+  background-image: url("./images/26_Dhou\(Dha\).png");
+}
+
+.bh {
+  background-image: url("./images/27_Bham\(Bha\).png");
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.khonjel {
+  outline: none;
+  border: 10px solid #404B69;
+  font-size: 0rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #DA0463;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: start;
+  margin: 10px;
+  background-color: white;
+  background-size: 130px;
+}
+.kakhal {
+  outline: none;
+  display: inline-block;
+  width: 200px;
+  height: 160px;
+  text-align: center;
+  margin: 10px;
+}

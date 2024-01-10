@@ -167,11 +167,37 @@ footer {
   background-color: white;
   background-size: 130px;
 }
-.kakhal {
-  outline: none;
-  display: inline-block;
-  width: 350px;
-  height: 160px;
-  text-align: center;
-  margin: 10px;
+  .kakhal {
+    outline: none;
+    display: inline-block;
+    width: 320px;
+    height: 160px;
+    text-align: center;
+    margin: 10px;
+  }
+
+  @media (max-width: 1060px) {
+
+    /* CSS for screens below or equal to 600px wide */
+    .kakhal {
+      outline: none;
+      display: inline-block;
+      width: 250px;
+      height: 160px;
+      text-align: center;
+      margin: 10px;
+    }
+  }
+
+@media (max-width: 850px) {
+
+  /* CSS for screens below or equal to 600px wide */
+  .kakhal {
+    outline: none;
+    display: inline-block;
+    width: 190px;
+    height: 160px;
+    text-align: center;
+    margin: 10px;
+  }
 }

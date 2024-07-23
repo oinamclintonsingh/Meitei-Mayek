@@ -2,10 +2,6 @@
 
 Welcome to the Meitei / Meetei Mayek Language Learning Website! This platform helps users learn the Meitei Mayek script, specifically the Mapom Mayek. Users can click on the script to hear its pronunciation.
 
-## Website
-
-You can visit my website [here](https://oinamclintonsingh.github.io/Meitei-Mayek/).
-
 ### Desktop View
 
 ![Image text](https://github.com/oinamclintonsingh/Meitei-Mayek/blob/e64034ee829dd7d1de46a67c0ade7f293fcb2f95/images/Screent%20Shoots%20Mapum%20Mayek%20Meitei%20Mayek/Meitei-Mayek_11.png)
@@ -15,6 +11,10 @@ You can visit my website [here](https://oinamclintonsingh.github.io/Meitei-Mayek
 ### Mobile View
 
 ![Image text](https://github.com/oinamclintonsingh/Meitei-Mayek/blob/e64034ee829dd7d1de46a67c0ade7f293fcb2f95/images/Screent%20Shoots%20Mapum%20Mayek%20Meitei%20Mayek/Meitei%20Mayek_01.png)
+
+## Website
+
+You can visit my website [here](https://oinamclintonsingh.github.io/Meitei-Mayek/).
 
 ## Features
 
